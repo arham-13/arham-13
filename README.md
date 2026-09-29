@@ -43,37 +43,32 @@ Here are some projects I'm currently working on or have built while learning web
 
 ### 📌 Project 1
 
-**Your Project Name**
+**restraunt website**
 
-> Short description of what the project does.
 
 **Tech:** HTML • CSS • JavaScript
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/arham-13/YOUR-REPOSITORY)
+[![View Repository](https://github.com/arham-13/restaurant-website.git)
 
 ---
 
 ### 📌 Project 2
 
-**Your Project Name**
-
-> Short description of what the project does.
+YouTube UI
 
 **Tech:** HTML • CSS • JavaScript
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/arham-13/YOUR-REPOSITORY)
+[![View Repository](https://github.com/arham-13/YouTube-ui.git)
 
 ---
 
 ### 📌 Project 3
 
-**Your Project Name**
-
-> Short description of what the project does.
+Facebook login page
 
 **Tech:** HTML • CSS • JavaScript
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/arham-13/YOUR-REPOSITORY)
+[![View Repository](https://github.com/arham-13/login-page.git)
 
 ---
 
